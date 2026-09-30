@@ -77,4 +77,4 @@ Publish this new repository from its own directory. It has no connection to the 
 
 ## Credits
 
-E-bot was developed by [Stanislav Vozarik](https://stanislavvozarik.com) and the Mangata team.
+E-bot was developed by [Stanislav Vozarik](https://stanislavvozarik.com), Gleb Urvanov, Peter Kris, and the Mangata team.
