@@ -1,0 +1,22 @@
+node_modules/
+.idea/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Wallet keystores
+wallet.json
+wallets/
+
+# Rebuild contract artifacts for your own deployment.
+contracts/**/*.bin
+build/
+artifacts/
+coverage/
+
+# Runtime logs and local data dumps
+fullLog.txt
+mempoolLog*.csv
+mempoolLog*.xlsx
