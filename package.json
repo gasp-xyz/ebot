@@ -17,7 +17,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "BUSL-1.1",
   "dependencies": {
     "abi-decoder": "^2.3.0",
     "bignumber.js": "^9.0.1",
